@@ -26,6 +26,7 @@ pip install git+https://github.com/openai/CLIP.git
 - CheXpert5x200
 - INbreast
 - MIMIC-GAZE
+- SIIMACR
 - TMED2
 
 ### Generating CP Graphs:
