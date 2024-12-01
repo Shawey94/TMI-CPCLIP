@@ -28,6 +28,12 @@ pip install git+https://github.com/openai/CLIP.git
 - MIMIC-GAZE
 - TMED2
 
+### Generating CP Graphs:
+Please adjust the total number of nodes and core nodes as needed.
+```
+python CP_graph_generator.py
+```
+
 ### Training:
 
 
