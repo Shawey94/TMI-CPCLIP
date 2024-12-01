@@ -1,0 +1,1000 @@
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient61418/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient52978/study2/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient11904/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient22508/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient40710/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient02313/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient18025/study2/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient17874/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient27154/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient44226/study2/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient52651/study3/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient35307/study3/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient16468/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient55420/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient18918/study4/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient53405/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient30686/study5/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient15452/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient29573/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient33047/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient51911/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient26528/study4/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient08371/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient37469/study3/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient61265/study2/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient27702/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient27023/study8/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient07724/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient25000/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient56250/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient08682/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient27537/study4/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient19049/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient05868/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient20190/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient10166/study2/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient51262/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient26937/study3/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient01628/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient44409/study2/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient11908/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient41863/study2/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient27005/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient17523/study3/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient16054/study8/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient55777/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient19802/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient12814/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient31211/study11/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient50914/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient60022/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient56228/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient27289/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient01271/study3/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient45617/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient20019/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient06202/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient41691/study2/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient38778/study7/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient63427/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient11982/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient29284/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient41215/study2/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient24702/study2/view2_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient10669/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient05008/study3/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient02201/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient51393/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient09869/study2/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient06784/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient56370/study8/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient01324/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient19815/study7/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient56708/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient50782/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient61402/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient35307/study3/view2_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient23863/study2/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient21225/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient25374/study9/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient04773/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient63985/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient50897/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient12197/study4/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient09329/study5/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient26020/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient57936/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient51135/study2/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient45390/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient49055/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient62183/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient34305/study3/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient59411/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient30681/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient17790/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient37272/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient60828/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient15654/study2/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient46681/study2/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient02977/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient40412/study4/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient47542/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient63795/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient48492/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient57529/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient37086/study2/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient51875/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient15049/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient16209/study7/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient21924/study2/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient46220/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient22907/study8/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient18017/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient17530/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient58790/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient17213/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient06876/study2/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient25263/study13/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient29537/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient46219/study1/view2_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient21278/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient35682/study4/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient14675/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient11145/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient55920/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient56546/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient50260/study2/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient46532/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient38290/study2/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient17510/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient15936/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient53252/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient07083/study2/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient19954/study3/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient55694/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient12914/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient06759/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient13471/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient09354/study16/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient38378/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient52284/study5/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient49831/study2/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient61589/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient34170/study6/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient52329/study3/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient10717/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient57134/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient31766/study10/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient53625/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient13485/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient59421/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient20227/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient30064/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient31460/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient35583/study3/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient57545/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient32745/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient21051/study2/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient35637/study2/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient38529/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient25019/study2/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient26334/study2/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient46757/study2/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient23455/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient38052/study2/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient20673/study2/view2_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient19870/study2/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient62016/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient36884/study7/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient24663/study4/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient53598/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient09939/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient16251/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient25644/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient25525/study9/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient46139/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient38778/study5/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient41965/study3/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient64054/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient13892/study9/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient36896/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient34005/study6/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient40090/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient18073/study3/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient09725/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient00690/study2/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient63251/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient64383/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient20275/study2/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient07882/study6/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient59346/study2/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient40180/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient05031/study2/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient28844/study9/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient27294/study2/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient01749/study3/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient34336/study42/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient62680/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient63847/study1/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient09781/study2/view1_frontal.jpg^atelectasis
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient17066/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient01155/study4/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient18340/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient03320/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient30449/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient03033/study3/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient02716/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient31018/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient00481/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient37044/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient26359/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient54348/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient02433/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient11528/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient47307/study2/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient35481/study3/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient27273/study2/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient14377/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient62919/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient04089/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient62170/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient14759/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient41371/study2/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient01190/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient51652/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient27135/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient00339/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient34134/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient07773/study2/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient07060/study11/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient56132/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient03027/study7/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient54384/study3/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient48095/study2/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient29860/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient33422/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient05536/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient05972/study2/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient01695/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient16984/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient21373/study14/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient56816/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient10002/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient14551/study2/view2_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient24792/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient35266/study10/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient15740/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient50920/study2/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient38118/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient36538/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient21637/study8/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient21914/study2/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient27148/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient22915/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient45054/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient04098/study5/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient49089/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient01491/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient06181/study6/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient16566/study6/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient12808/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient28864/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient00315/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient13954/study3/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient53523/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient29243/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient15109/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient00356/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient37224/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient28321/study8/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient14872/study4/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient01019/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient20329/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient28963/study4/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient03908/study5/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient28502/study2/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient01683/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient12804/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient54066/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient02198/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient12974/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient22535/study2/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient27798/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient43237/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient03368/study1/view2_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient45549/study5/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient47174/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient37679/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient37288/study3/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient17647/study5/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient10179/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient57891/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient34070/study31/view2_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient42557/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient40675/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient53966/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient21076/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient17477/study4/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient40750/study2/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient27677/study2/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient27296/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient11915/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient04998/study13/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient10871/study6/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient01349/study4/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient19149/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient17295/study8/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient59493/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient25731/study4/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient31471/study10/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient51259/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient59779/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient34767/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient02315/study1/view2_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient22730/study7/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient48314/study2/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient34399/study4/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient28400/study2/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient13835/study5/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient25196/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient09340/study8/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient43442/study10/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient41798/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient19570/study2/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient56836/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient33426/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient51128/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient00826/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient18746/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient18840/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient17584/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient38656/study6/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient13675/study3/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient60545/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient19532/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient01214/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient38567/study2/view2_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient33948/study3/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient01103/study3/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient59209/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient21393/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient15424/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient30569/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient20546/study5/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient21579/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient20021/study12/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient02242/study2/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient52946/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient17759/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient29884/study4/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient55254/study2/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient09223/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient34013/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient06769/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient22367/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient04084/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient41315/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient31090/study6/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient52204/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient39850/study21/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient24677/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient15671/study9/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient31008/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient11810/study3/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient60649/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient06905/study2/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient22500/study5/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient60497/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient29261/study2/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient15291/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient07787/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient04550/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient05478/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient32458/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient01349/study5/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient22643/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient19965/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient55268/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient03971/study4/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient29605/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient51854/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient08872/study5/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient19599/study2/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient05109/study44/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient00888/study12/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient32583/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient51679/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient51413/study2/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient22018/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient17295/study6/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient21789/study1/view2_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient62526/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient08623/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient11479/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient21408/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient60883/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient58138/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient21700/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient59083/study2/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient43721/study1/view1_frontal.jpg^cardiomegaly
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient13828/study9/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient10924/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient04468/study11/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient13272/study8/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient32551/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient05792/study4/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient40817/study5/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient50496/study2/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient39118/study8/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient08963/study10/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient24234/study5/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient42898/study2/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient13415/study6/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient21240/study8/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient02608/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient02343/study2/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient30301/study9/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient45458/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient31982/study6/view2_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient44557/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient28679/study6/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient17414/study2/view2_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient04977/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient10684/study4/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient01914/study3/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient42567/study3/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient35714/study5/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient10305/study3/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient21787/study4/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient08337/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient25106/study4/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient43599/study3/view2_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient38681/study5/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient13732/study12/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient42423/study3/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient35842/study7/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient55986/study2/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient17168/study8/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient46244/study5/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient14049/study5/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient40292/study3/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient00424/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient42033/study3/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient39788/study11/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient26572/study6/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient04344/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient05621/study2/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient36083/study6/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient39788/study19/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient44843/study2/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient03254/study2/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient04195/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient60751/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient02074/study12/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient19395/study4/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient09699/study6/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient60867/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient30494/study9/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient01931/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient53333/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient08058/study3/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient28873/study4/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient25145/study2/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient03956/study3/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient13452/study3/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient05745/study18/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient38231/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient19963/study4/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient50193/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient39682/study2/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient42033/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient19121/study2/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient18585/study10/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient43117/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient34420/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient58256/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient19461/study7/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient01468/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient09052/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient42685/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient44295/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient63653/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient33648/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient23880/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient23416/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient13824/study5/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient22692/study3/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient59802/study2/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient35064/study3/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient46125/study2/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient25383/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient25557/study7/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient19079/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient28784/study17/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient32997/study16/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient05745/study16/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient07061/study38/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient23737/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient41784/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient02837/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient43599/study3/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient40601/study3/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient08950/study8/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient34927/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient24212/study23/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient04924/study3/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient36298/study7/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient25145/study2/view2_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient36337/study13/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient46487/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient03887/study5/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient49756/study2/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient35710/study5/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient14143/study6/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient18259/study5/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient12664/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient36649/study6/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient48580/study2/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient31479/study13/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient64044/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient40886/study6/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient04033/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient49048/study3/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient14757/study3/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient25051/study17/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient47687/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient31881/study3/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient58523/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient25147/study4/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient39850/study3/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient03044/study2/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient06357/study9/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient11436/study9/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient13300/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient17121/study4/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient48030/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient21588/study6/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient38560/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient13362/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient02314/study3/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient21260/study2/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient00251/study2/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient64366/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient51146/study2/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient05934/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient54766/study2/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient54291/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient34616/study14/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient09480/study3/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient07903/study18/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient40036/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient31298/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient47713/study2/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient21690/study3/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient10497/study3/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient35253/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient52968/study3/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient03230/study14/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient09215/study6/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient10860/study2/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient30656/study6/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient54225/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient06190/study11/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient57994/study2/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient45942/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient18649/study3/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient19187/study14/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient17365/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient62398/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient22475/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient33464/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient55999/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient57862/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient40886/study4/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient27560/study3/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient58425/study3/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient02195/study5/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient30601/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient06021/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient41503/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient29664/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient09911/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient23495/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient52128/study2/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient19965/study7/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient46383/study2/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient54241/study4/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient47345/study2/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient06591/study20/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient41755/study2/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient02397/study3/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient24245/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient29317/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient46955/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient05126/study7/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient46197/study3/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient14955/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient36951/study4/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient06653/study1/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient49402/study4/view1_frontal.jpg^consolidation
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient35030/study2/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient12084/study6/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient43706/study3/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient30473/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient11083/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient54319/study4/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient51620/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient49293/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient54430/study2/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient19179/study5/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient12680/study2/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient17308/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient16844/study3/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient51777/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient00936/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient41454/study11/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient30532/study11/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient02872/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient19410/study2/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient19879/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient62874/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient42409/study5/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient30063/study3/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient46760/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient38958/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient35741/study4/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient34814/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient35330/study2/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient53929/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient60460/study1/view2_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient03169/study3/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient49728/study2/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient01682/study3/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient32997/study3/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient35376/study3/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient40044/study2/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient35085/study7/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient29014/study7/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient14082/study2/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient39846/study4/view2_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient51367/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient06357/study3/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient01776/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient47407/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient35375/study20/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient01110/study9/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient34947/study3/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient44517/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient04376/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient14426/study7/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient22262/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient35854/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient57023/study3/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient35499/study10/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient31270/study1/view2_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient16563/study5/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient11158/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient28918/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient35382/study5/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient14833/study4/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient43064/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient64495/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient34800/study18/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient59579/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient44541/study16/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient60460/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient15511/study2/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient59466/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient25534/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient35514/study10/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient60521/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient12128/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient23811/study5/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient18081/study12/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient22768/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient07100/study10/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient24790/study4/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient55752/study2/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient38384/study5/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient18382/study8/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient37778/study3/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient37418/study2/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient39832/study3/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient38778/study10/view2_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient47574/study12/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient27175/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient13278/study2/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient50659/study2/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient12394/study2/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient33240/study9/view2_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient36488/study3/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient27673/study4/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient60039/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient09072/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient62423/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient58879/study2/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient18493/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient54498/study2/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient36215/study7/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient19108/study10/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient08899/study2/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient38892/study4/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient29409/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient30379/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient35510/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient27976/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient16476/study2/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient18377/study2/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient44597/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient21067/study3/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient05059/study4/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient34676/study3/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient39926/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient34070/study30/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient11332/study5/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient38541/study7/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient56824/study3/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient07770/study3/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient05839/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient35308/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient25763/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient49658/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient61656/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient28466/study2/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient20964/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient18139/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient37521/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient17904/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient05069/study6/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient50936/study2/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient48824/study4/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient02579/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient19688/study4/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient07416/study6/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient22920/study46/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient03969/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient51649/study3/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient44601/study3/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient31839/study4/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient35723/study4/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient46447/study2/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient09250/study3/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient36399/study18/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient40093/study5/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient24548/study1/view2_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient05306/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient35189/study2/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient44298/study2/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient17461/study4/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient11127/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient35807/study15/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient57829/study2/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient43609/study6/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient40044/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient62690/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient05496/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient31352/study4/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient11968/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient14748/study20/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient45230/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient11325/study9/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient10135/study2/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient10865/study2/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient52569/study2/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient17461/study3/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient56969/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient34380/study12/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient59155/study7/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient58955/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient47024/study4/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient02267/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient39256/study3/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient17904/study2/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient26163/study3/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient39866/study2/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient16429/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient63267/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient02403/study3/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient20211/study2/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient40294/study2/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient21344/study3/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient01475/study6/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient28048/study12/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient31720/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient41597/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient40051/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient34993/study16/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient28862/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient58847/study2/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient43638/study3/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient35085/study9/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient21088/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient61026/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient45989/study8/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient25044/study2/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient22476/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient46855/study2/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient09867/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient58298/study1/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient05069/study9/view1_frontal.jpg^edema
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient07297/study8/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient27993/study7/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient24302/study8/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient51413/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient26253/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient11305/study6/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient21598/study4/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient31780/study3/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient37568/study2/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient28208/study12/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient16221/study4/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient33110/study3/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient63743/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient26886/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient31606/study3/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient05219/study11/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient44486/study2/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient35373/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient10022/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient07463/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient01501/study3/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient25359/study21/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient20412/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient27012/study2/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient28072/study4/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient23822/study2/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient08683/study4/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient36525/study12/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient37240/study3/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient63543/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient04779/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient04679/study4/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient10238/study28/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient33622/study8/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient40397/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient44084/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient38473/study6/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient61958/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient09185/study4/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient28090/study2/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient05905/study3/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient25714/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient20869/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient07224/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient11292/study2/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient07081/study22/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient22563/study10/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient22171/study3/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient37218/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient27765/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient12416/study2/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient41988/study2/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient10405/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient06091/study5/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient05333/study2/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient34404/study6/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient11305/study7/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient13030/study2/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient16462/study3/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient14351/study8/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient22423/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient02613/study1/view2_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient01454/study9/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient40692/study8/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient18738/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient01150/study2/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient07058/study4/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient14212/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient28075/study2/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient37844/study2/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient35811/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient24212/study22/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient58370/study2/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient15177/study3/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient29263/study6/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient18535/study3/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient38374/study3/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient06597/study2/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient40040/study3/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient20695/study4/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient46665/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient27410/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient63597/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient11605/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient39088/study5/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient38971/study5/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient59210/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient29894/study9/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient24344/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient27637/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient58956/study6/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient27959/study5/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient04035/study3/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient18674/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient30173/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient35099/study2/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient11851/study5/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient08670/study2/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient09028/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient44873/study5/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient24981/study12/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient13996/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient36664/study6/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient53993/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient07975/study3/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient13851/study2/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient19452/study3/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient34345/study9/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient47470/study2/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient03414/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient10459/study3/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient58832/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient11152/study3/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient07050/study4/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient37918/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient13804/study10/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient21088/study11/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient05342/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient11613/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient60673/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient39405/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient18008/study5/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient16206/study2/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient03029/study3/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient33890/study4/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient27959/study6/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient33613/study5/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient25083/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient20213/study5/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient14677/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient60910/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient31419/study2/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient27478/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient27549/study17/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient14914/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient14626/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient26422/study3/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient00147/study3/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient11688/study5/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient24327/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient50292/study2/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient35825/study6/view2_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient23185/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient40935/study2/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient58999/study2/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient07272/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient14034/study4/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient16374/study1/view2_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient60083/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient27075/study2/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient33083/study2/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient08843/study2/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient28577/study2/view2_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient11851/study8/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient39722/study6/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient24163/study57/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient15001/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient44025/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient42422/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient02147/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient04905/study9/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient34833/study10/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient05477/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient47176/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient42245/study2/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient32014/study16/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient42385/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient04361/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient32453/study2/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient19290/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient23929/study2/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient09242/study2/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient41020/study2/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient46451/study2/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient00291/study3/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient31041/study2/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient04027/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient34163/study2/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient62921/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient46573/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient36392/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient36955/study3/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient05843/study9/view2_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient04343/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient01124/study5/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient13667/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient11919/study2/view2_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient34100/study12/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient04290/study10/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient20144/study13/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient31744/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient14351/study4/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient55252/study4/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient07853/study4/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient58568/study2/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient03513/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient18257/study29/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient16563/study6/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient22796/study1/view1_frontal.jpg^pleural effusion
+/media/shawey/cf54ec8b-5d7c-4924-b13e-4ece5630451c/DatasetsZoo/chexpert5x200/CheXpert-v1.0/train/patient29989/study1/view1_frontal.jpg^pleural effusion
