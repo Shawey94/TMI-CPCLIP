@@ -36,11 +36,16 @@ python CP_graph_generator.py
 ```
 
 ### Training:
-
-
 ```
 python CP_CLIPFineTune.py --lr_clip 0.000001 --epochs 50 --batch_size 16 --lr_cpNN 0.001 --gpu_id 0
 ```
+
+### Visualization:
+After the model is well-trained, please update the model path and image path to generate attention maps (visualization).
+```
+python GradCAM_CP_CLIP
+```
+
 
 ### Citation:
 ```
