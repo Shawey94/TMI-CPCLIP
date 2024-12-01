@@ -1,4 +1,4 @@
-# TMI-CPCLIP
+# CPCLIP
 
 # [Core-Periphery Multi-Modality Feature Alignment for Zero-Shot Medical Image Analysis](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10721320)
 
