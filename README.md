@@ -41,7 +41,7 @@ python CP_CLIPFineTune.py --lr_clip 0.000001 --epochs 50 --batch_size 16 --lr_cp
 ```
 
 ### Visualization:
-After the model is well-trained, please update the model path and image path in GradCAM_CP_CLIP.py to generate attention maps (visualization).
+After the model is well-trained, please update the model path and image path in _GradCAM_CP_CLIP.py_ to generate attention maps (visualization).
 ```
 python GradCAM_CP_CLIP.py
 ```
