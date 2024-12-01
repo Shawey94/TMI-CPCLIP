@@ -32,7 +32,7 @@ pip install git+https://github.com/openai/CLIP.git
 
 
 ```
-python Main.py --lr_clip 0.000001 --epochs 50 --batch_size 16 --lr_cpNN 0.001 --gpu_id 0 
+python CP_CLIPFineTune.py --lr_clip 0.000001 --epochs 50 --batch_size 16 --lr_cpNN 0.001 --gpu_id 0
 ```
 
 ### Citation:
